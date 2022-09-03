@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PraveenTiwari08
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on frontend and practicing Data Structure and Algorithm.
+- 🌱 I’m currently learning frontend and practicing Data Structure and Algorithm.
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
