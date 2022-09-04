@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PraveenTiwari08
-- 👀 I’m interested in ...
+- 👀 I’m interested in Coding , Robotics and Sports.
 - 🌱 I’m currently learning frontend and practicing Data Structure and Algorithm.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
