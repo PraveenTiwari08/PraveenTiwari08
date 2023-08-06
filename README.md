@@ -19,9 +19,9 @@ Let's create exceptional solutions together!
 <h2>Contact</h2>
 
 <p>
-  Email: praviintiwari8@gmail.com
-  location:  Location: Indore (Madhya Pradesh), India
-</p>
+  Email: praviintiwari8@gmail.com</p>
+  <p>location:  Location: Indore (Madhya Pradesh), India</p>
+
 
 
 <h2>Portfolio</h2>
@@ -31,7 +31,7 @@ Let's create exceptional solutions together!
 <p>
   Thank you for visiting my GitHub portfolio. If you have any feedback or inquiries, please feel free to reach out to me. Let's connect and explore exciting opportunities together!
 
-<strong>Note</strong: The portfolio link provided in this ReadMe is the same as the deployed link mentioned in the Profile Section.
+<strong>Note</strong>: The portfolio link provided in this ReadMe is the same as the deployed link mentioned in the Profile Section.
 </p>
 
 <!---
