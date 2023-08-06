@@ -2,6 +2,8 @@
 
 <p>Welcome to my GitHub portfolio! Here you will find a collection of my projects, contributions, and other works. Feel free to explore and reach out to me on LinkedIn if you have any questions or opportunities for collaboration.</p>
 
+<a href="https://www.linkedin.com/in/praveen-tiwari-a4b445216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxK6tZ8J0Su%2BG0r8L5NYOUQ%3D%3D">LinkedIn</a>
+
 <h2>Hey There!</h2>
 <p>Robotics Engineer at I-BOT TECHNOLOGY PVT. LIMITED, Indore. Design and fabricate robots. Manage tasks and critical workloads. Program electric vehicle controllers. Passionate about Arduino coding, fostering collaboration and continuous learning. Let's connect for innovative projects!
 
