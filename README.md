@@ -16,6 +16,23 @@ Feel free to connect with me on LinkedIn to discuss potential collaborations or 
 Let's create exceptional solutions together!
 </p>
 
+<h2>Contact</h2>
+
+<p>
+  Email: praviintiwari8@gmail.com
+  location:  Location: Indore (Madhya Pradesh), India
+</p>
+
+
+<h2>Portfolio</h2>
+<p>Check out my Portfolio. It showcases some of my best projects and demonstrates my skills in various technologies. The portfolio is deployed on GitHub Pages, providing an interactive experience for exploring the projects.</p>
+
+<h2>Conclusion</h2>
+<p>
+  Thank you for visiting my GitHub portfolio. If you have any feedback or inquiries, please feel free to reach out to me. Let's connect and explore exciting opportunities together!
+
+<strong>Note</strong: The portfolio link provided in this ReadMe is the same as the deployed link mentioned in the Profile Section.
+</p>
 
 <!---
 PraveenTiwari08/PraveenTiwari08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
