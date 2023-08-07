@@ -20,8 +20,8 @@ Let's create exceptional solutions together!
 
 <h2>Contact</h2>
 
-<p>
-  <a href="praviintiwari8@gmail">Email: praviintiwari8@gmail.com</a></p>
+<p>Email: 
+  <a href="praviintiwari8@gmail">praviintiwari8@gmail.com</a></p>
   <p>location:  Location: Indore (Madhya Pradesh), India</p>
 
 
