@@ -22,7 +22,7 @@ Let's create exceptional solutions together!
 
 <p>Email: 
   <a href="praviintiwari8@gmail">praviintiwari8@gmail.com</a></p>
-  <p>location:  Location: Indore (Madhya Pradesh), India</p>
+  Location: Indore (Madhya Pradesh), India
 
 
 
