@@ -21,8 +21,8 @@ Let's create exceptional solutions together!
 <h2>Contact</h2>
 
 <p>Email: 
-  <a href="praviintiwari8@gmail" data-canonical-src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square">praviintiwari8@gmail.com</a></p>
-  Location: Indore (Madhya Pradesh), India
+  <a href="praviintiwari8@gmail">praviintiwari8@gmail.com</a><br>Location: Indore (Madhya Pradesh), India</p>
+  
 
 
 
