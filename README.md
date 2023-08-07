@@ -27,7 +27,7 @@ Let's create exceptional solutions together!
 
 
 <h2>Portfolio</h2>
-<p>Check out my Portfolio. It showcases some of my best projects and demonstrates my skills in various technologies. The portfolio is deployed on GitHub Pages, providing an interactive experience for exploring the projects.</p>
+<p>Check out my <a href="https://shimmering-youtiao-c183e7.netlify.app/">Portfolio</a>. It showcases some of my best projects and demonstrates my skills in various technologies. The portfolio is deployed on GitHub Pages, providing an interactive experience for exploring the projects.</p>
 
 <h2>Conclusion</h2>
 <p>
