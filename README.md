@@ -21,7 +21,7 @@ Let's create exceptional solutions together!
 <h2>Contact</h2>
 
 <p>
-  Email: praviintiwari8@gmail.com</p>
+  <a>Email: praviintiwari8@gmail.com</a></p>
   <p>location:  Location: Indore (Madhya Pradesh), India</p>
 
 
